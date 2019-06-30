@@ -1,0 +1,32 @@
+2019-06-30 20:32:16.373  INFO 1614 --- [           main] c.z.r.simulator.SimulatorApplication     : No active profile set, falling back to default profiles: default
+2019-06-30 20:32:17.694  INFO 1614 --- [           main] c.z.r.simulator.SimulatorApplication     : Started SimulatorApplication in 1.949 seconds (JVM running for 2.763)
+2019-06-30 20:32:17.696  INFO 1614 --- [           main] c.z.r.simulator.CommandLineRobotRunner   : Robot Application started Processing
+2019-06-30 20:32:17.699  INFO 1614 --- [           main] c.z.r.s.services.SimulatorService        : Processing raw command :place 0,0,NORTH
+2019-06-30 20:32:17.700  INFO 1614 --- [           main] c.z.r.s.services.SimulatorService        : PLACE - Request received
+2019-06-30 20:32:17.702  INFO 1614 --- [           main] c.z.r.s.services.SimulatorService        : Processing raw command :move
+2019-06-30 20:32:17.702  INFO 1614 --- [           main] c.z.r.s.services.SimulatorService        : MOVE - Request received
+2019-06-30 20:32:17.702  INFO 1614 --- [           main] c.z.r.s.services.SimulatorService        : Processing raw command :report
+2019-06-30 20:32:17.703  INFO 1614 --- [           main] c.z.r.s.services.SimulatorService        : REPORT - Request received
+Robot Location OUTPUT :0,1,NORTH
+2019-06-30 20:32:17.703  INFO 1614 --- [           main] c.z.r.s.services.SimulatorService        : Processing raw command :place 0,0,NORTH
+2019-06-30 20:32:17.703  INFO 1614 --- [           main] c.z.r.s.services.SimulatorService        : PLACE - Request received
+2019-06-30 20:32:17.703  INFO 1614 --- [           main] c.z.r.s.services.SimulatorService        : Processing raw command :left
+2019-06-30 20:32:17.703  INFO 1614 --- [           main] c.z.r.s.services.SimulatorService        : LEFT - Request received
+2019-06-30 20:32:17.703  INFO 1614 --- [           main] c.z.r.s.services.SimulatorService        : Processing raw command :report
+2019-06-30 20:32:17.703  INFO 1614 --- [           main] c.z.r.s.services.SimulatorService        : REPORT - Request received
+Robot Location OUTPUT :0,0,WEST
+2019-06-30 20:32:17.704  INFO 1614 --- [           main] c.z.r.s.services.SimulatorService        : Processing raw command :place 1,2,EAST
+2019-06-30 20:32:17.704  INFO 1614 --- [           main] c.z.r.s.services.SimulatorService        : PLACE - Request received
+2019-06-30 20:32:17.704  INFO 1614 --- [           main] c.z.r.s.services.SimulatorService        : Processing raw command :move
+2019-06-30 20:32:17.704  INFO 1614 --- [           main] c.z.r.s.services.SimulatorService        : MOVE - Request received
+2019-06-30 20:32:17.704  INFO 1614 --- [           main] c.z.r.s.services.SimulatorService        : Processing raw command :move
+2019-06-30 20:32:17.704  INFO 1614 --- [           main] c.z.r.s.services.SimulatorService        : MOVE - Request received
+2019-06-30 20:32:17.704  INFO 1614 --- [           main] c.z.r.s.services.SimulatorService        : Processing raw command :left
+2019-06-30 20:32:17.704  INFO 1614 --- [           main] c.z.r.s.services.SimulatorService        : LEFT - Request received
+2019-06-30 20:32:17.704  INFO 1614 --- [           main] c.z.r.s.services.SimulatorService        : Processing raw command :move
+2019-06-30 20:32:17.704  INFO 1614 --- [           main] c.z.r.s.services.SimulatorService        : MOVE - Request received
+2019-06-30 20:32:17.704  INFO 1614 --- [           main] c.z.r.s.services.SimulatorService        : Processing raw command :report
+2019-06-30 20:32:17.705  INFO 1614 --- [           main] c.z.r.s.services.SimulatorService        : REPORT - Request received
+Robot Location OUTPUT :3,3,NORTH
+
+Process finished with exit code 0
